@@ -5,8 +5,6 @@
 **Dual-degree student in Mathematics & Computer Science**  
 *Mathematical Modeling · Machine Learning & Optimization · Systems*
 
-Universidad de Murcia (Final Year) · Exchange at NTNU Gløshaugen (67.5 ECTS)
-
 <p align="center">
   <a href="#about">About</a> ·
   <a href="#selected-work">Selected Work</a> ·
@@ -26,7 +24,7 @@ Universidad de Murcia (Final Year) · Exchange at NTNU Gløshaugen (67.5 ECTS)
 
 ## About
 
-I am a final-year student pursuing a **Dual Degree in Mathematics and Computer Engineering** at the **Universidad de Murcia**. I did an academic exchange year at **NTNU** in Trondheim.
+I am a final-year student pursuing a **Dual Degree in Mathematics and Computer Engineering** at the **Universidad de Murcia**. I did an academic exchange year at **NTNU** in Trondheim, Norway. 
 
 My interests sit at the intersection of formal mathematics—especially topology, geometry, and mathematical modeling—and software engineering. I enjoy working across the stack, from low-level C engines and NumPy-based neural networks to full-stack web architectures and real-time multiplayer games.
 
@@ -98,7 +96,7 @@ My interests sit at the intersection of formal mathematics—especially topology
 
 - **AI & Scientific Computing:** PyTorch, Scikit-Learn, NumPy, SciPy (HiGHS MILP), NetworkX, Pandas, GUDHI, Matplotlib
 
-- **Systems & Engineering:** Linux/UNIX, Git/GitHub, Docker, WebSockets, POSIX APIs, CMake, $\text{\LaTeX}$
+- **Systems & Engineering:** Linux/UNIX, Git/GitHub, Docker, WebSockets, POSIX APIs, CMake, \LaTeX
 
 - **Core Methods:** Machine Learning & Statistical Inference, Approximate Dynamic Programming / Rollout Policies (RL), Mixed-Integer Linear Programming (MILP), Graph Algorithms, Cache-Conscious Systems
 
