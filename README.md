@@ -63,7 +63,7 @@ My interests sit at the intersection of formal mathematics—especially topology
 
 ---
 
-### ⚙️ MiniC to MIPS32 Native Compiler
+### ⚙️ [MiniC to MIPS32 Native Compiler](https://github.com/pedro-villa/minic-compiler)
 *Coursework project: Compilers (UMU)*
 
 - End-to-end compiler translating MiniC code into MIPS32 assembly for the MARS simulator.
@@ -72,7 +72,6 @@ My interests sit at the intersection of formal mathematics—especially topology
 
 - Built intermediate representations of pointer-linked quadruples, compile-time constant folding, and bitmap register allocation (`$t0`–`$t9`).  
 
-  *(Repository private to comply with university academic integrity policies).*
 
 ---
 
