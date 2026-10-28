@@ -79,15 +79,15 @@ My interests sit at the intersection of formal mathematics—especially topology
 
 | Repository | System & Focus Highlights | Stack |
 |---|---|---|
-| [**nanofiles-p2p**](https://github.com/pedro-villa/nanofiles-p2p) | Hybrid peer-to-peer file sharing system combining a centralized UDP directory service with multithreaded TCP peer transfers. | Java, UDP, TCP, Stop-and-Wait ARQ |
-| [**minic-compiler**](https://github.com/pedro-villa/minic-compiler) | End-to-end MiniC compiler with LALR(1) parsing, compile-time constant folding, and bitmap register allocation for MIPS32. | C, Flex, Bison, MIPS |
-| [**HandwrittenDigitRecognition**](https://github.com/pedro-villa/HandwrittenDigitRecognition) | Multilayer perceptron and matrix backpropagation written from scratch without autograd libraries, with interactive drawing canvas. | Python, NumPy |
-| [**TDT4240-game**](https://github.com/pedro-villa/TDT4240-game) | Real-time multiplayer 2D game (*Loot'em Shoot'em*). Authoritative headless server running a 20 Hz tick loop with multi-client WebSocket synchronization. | Java, LibGDX, WebSockets |
-| [**aed2-algorithms-cpp**](https://github.com/pedro-villa/aed2-algorithms-cpp) | Divide-and-conquer, greedy scheduling, and branch-and-bound with cache-conscious memory layouts and POSIX hardware counter benchmarking. | C++17, POSIX |
 | [**aed1-data-structures-cpp**](https://github.com/pedro-villa/aed1-data-structures-cpp) | Compact left-child right-sibling tries, separate-chaining hash tables with UTF-8 normalization, and formal BST/AVL rotations. | C++17 |
-| [**Lights**](https://github.com/pedro-villa/Lights) | 2D visibility engine featuring custom 2D raycasting, dynamic lighting fields, and line-of-sight stealth AI. | C99, SDL2 |
-| [**topologia-de-superficies**](https://github.com/pedro-villa/topologia-de-superficies) | Open lecture notes and proofs on topological classification of compact surfaces, fundamental groups, and CW complexes. | LaTeX, GitHub Actions |
+| [**aed2-algorithms-cpp**](https://github.com/pedro-villa/aed2-algorithms-cpp) | Divide-and-conquer, greedy scheduling, and branch-and-bound with cache-conscious memory layouts and POSIX hardware counter benchmarking. | C++17, POSIX |
 | [**AI_Notebook**](https://github.com/pedro-villa/AI_Notebook) | Web application for logging, auditing, and annotating AI-assisted workflows across coursework. | React, Node.js, Express, MongoDB |
+| [**HandwrittenDigitRecognition**](https://github.com/pedro-villa/HandwrittenDigitRecognition) | Multilayer perceptron and matrix backpropagation written from scratch without autograd libraries, with interactive drawing canvas. | Python, NumPy |
+| [**Lights**](https://github.com/pedro-villa/Lights) | 2D visibility engine featuring custom 2D raycasting, dynamic lighting fields, and line-of-sight stealth AI. | C99, SDL2 |
+| [**minic-compiler**](https://github.com/pedro-villa/minic-compiler) | End-to-end MiniC compiler with LALR(1) parsing, compile-time constant folding, and bitmap register allocation for MIPS32. | C, Flex, Bison, MIPS |
+| [**nanofiles-p2p**](https://github.com/pedro-villa/nanofiles-p2p) | Hybrid peer-to-peer file sharing system combining a centralized UDP directory service with multithreaded TCP peer transfers. | Java, UDP, TCP, Stop-and-Wait ARQ |
+| [**TDT4240-game**](https://github.com/pedro-villa/TDT4240-game) | Real-time multiplayer 2D game (*Loot'em Shoot'em*). Authoritative headless server running a 20 Hz tick loop with multi-client WebSocket synchronization. | Java, LibGDX, WebSockets |
+| [**topologia-de-superficies**](https://github.com/pedro-villa/topologia-de-superficies) | Open lecture notes and proofs on topological classification of compact surfaces, fundamental groups, and CW complexes. | LaTeX, GitHub Actions |
 
 ---
 
