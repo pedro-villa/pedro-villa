@@ -30,7 +30,7 @@ My interests sit at the intersection of formal mathematics—especially topology
 
 ## Selected Work
 
-### 🚒 Stochastic Firefighter Problem on Graphs
+### 🚒 [Stochastic Firefighter Problem on Graphs](https://github.com/pedro-villa/CMM-IMI-2026)
 *Sequential Decision-Making & Optimization · CMM-IMI Modeling Competition (UCM Madrid, Oct 2026)*
 
 - **Exact 2-Stage Formulation:** Derived analytical expectation bounds for multi-hop stochastic spread and linearized the decision objective into an exact Mixed-Integer Linear Program (MILP), solving large-scale deterministic benchmarks with the HiGHS optimizer.
@@ -38,8 +38,6 @@ My interests sit at the intersection of formal mathematics—especially topology
 - **Reinforcement Learning / Rollout Policy:** Engineered a time-indexed multi-stage MILP alongside a nested rollout policy (approximate dynamic programming) with Common Random Numbers (CRN), matching the stochastic environment while keeping the optimization structure interpretable.
 
 - **Stack:** Python, SciPy (HiGHS), NumPy, NetworkX, Monte Carlo simulation.
-
-- **Repository:** [CMM-IMI-2026](https://github.com/pedro-villa/CMM-IMI-2026) — public project repository with the full implementation, experiments, and final report.
 
 ---
 
@@ -72,13 +70,12 @@ My interests sit at the intersection of formal mathematics—especially topology
 
 - Built intermediate representations of pointer-linked quadruples, compile-time constant folding, and bitmap register allocation (`$t0`–`$t9`).  
 
-
 ---
 
 ## Repositories
 
 | Repository | System & Focus Highlights | Stack |
-| |---|---|
+| --- | --- | --- |
 | [**aed1-data-structures-cpp**](https://github.com/pedro-villa/aed1-data-structures-cpp) | Compact left-child right-sibling tries, separate-chaining hash tables with UTF-8 normalization, and form-heavy data structures tuned for memory locality. | C++17 |
 | [**aed2-algorithms-cpp**](https://github.com/pedro-villa/aed2-algorithms-cpp) | Divide-and-conquer, greedy scheduling, and branch-and-bound with cache-conscious memory layouts and POSIX hardware profiling. | C++17, Bash |
 | [**AI_Notebook**](https://github.com/pedro-villa/AI_Notebook) | Web application for logging, auditing, and annotating AI-assisted workflows across coursework. | React, Node.js, Express, MongoDB |
@@ -97,7 +94,7 @@ My interests sit at the intersection of formal mathematics—especially topology
 
 - **AI & Scientific Computing:** PyTorch, Scikit-Learn, NumPy, SciPy (HiGHS MILP), NetworkX, Pandas, GUDHI, Matplotlib
 
-- **Systems & Engineering:** Linux/UNIX, Git/GitHub, Docker, WebSockets, POSIX APIs, CMake, \LaTeX
+- **Systems & Engineering:** Linux/UNIX, Git/GitHub, Docker, WebSockets, POSIX APIs, CMake, LaTeX
 
 - **Core Methods:** Machine Learning & Statistical Inference, Approximate Dynamic Programming / Rollout Policies (RL), Mixed-Integer Linear Programming (MILP), Graph Algorithms, Cache-Conscious Systems Programming
 
