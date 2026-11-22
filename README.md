@@ -26,6 +26,9 @@ I am a final-year student pursuing a **Dual Degree in Mathematics and Computer E
 
 My interests sit at the intersection of formal mathematics—especially topology, geometry, and mathematical modeling—and software engineering. I enjoy working across the stack, from low-level C and systems programming to optimization, scientific computing, and applied machine learning.
 
+## Repositories
+Comprehensive list of my public project repositories, ordered alphanumerically. 
+
 | Repository | System & Focus Highlights | Stack |
 | --- | --- | --- |
 | [**aed1-data-structures-cpp**](https://github.com/pedro-villa/aed1-data-structures-cpp) | Compact left-child right-sibling tries, separate-chaining hash tables with UTF-8 normalization, and formal algebraic ADT specifications in Maude. | C++17, Maude |
