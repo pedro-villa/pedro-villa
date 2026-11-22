@@ -8,7 +8,6 @@
 <p align="center">
   <a href="#about">About</a> ·
   <a href="#repositories">Repositories</a> ·
-  <a href="#technical-skills">Skills</a> ·
   <a href="#contact">Contact</a>
 </p>
 
@@ -39,18 +38,6 @@ My interests sit at the intersection of formal mathematics—especially topology
 | [**nanofiles-p2p**](https://github.com/pedro-villa/nanofiles-p2p) | Hybrid peer-to-peer file sharing system combining a centralized UDP directory service (Stop-and-Wait ARQ) with multithreaded TCP peer transfers. | Java |
 | [**TDT4240-game**](https://github.com/pedro-villa/TDT4240-game) | Cross-platform multiplayer top-down shooter for Desktop & Android with an authoritative server and real-time networking. | Java, LibGDX, WebSockets |
 | [**topologia-de-superficies**](https://github.com/pedro-villa/topologia-de-superficies) | Open lecture notes and proofs on topological classification of compact surfaces, Euler characteristic, homotopy, and fundamental groups. | LaTeX |
-
----
-
-## Technical Skills
-
-- **Languages:** Python (primary), C++ (C++17), C99, Java, SQL, Bash, MATLAB, R
-
-- **AI & Scientific Computing:** PyTorch, Scikit-Learn, NumPy, SciPy (HiGHS MILP), NetworkX, Pandas, GUDHI, Matplotlib
-
-- **Systems & Engineering:** Linux/UNIX, Git/GitHub, Docker, WebSockets, POSIX APIs, CMake, LaTeX
-
-- **Core Methods:** Machine Learning & Statistical Inference, Approximate Dynamic Programming / Rollout Policies (RL), Mixed-Integer Linear Programming (MILP), Graph Algorithms, Cache-Conscious Systems Programming
 
 ---
 
